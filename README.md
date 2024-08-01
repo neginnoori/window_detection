@@ -94,8 +94,3 @@ pip install torch torchvision pillow numpy matplotlib
                    continue
    ```
 
-5. **Execution**: To run the script, simply execute it in your Python environment:
-
-   ```sh
-   python window_2.py
-   ```
